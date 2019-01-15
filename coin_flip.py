@@ -3,7 +3,7 @@ Python 3.4+
 
 Demonstrate how probability works by flipping a fair coin.
 
-Explanation: https://techtorials.me/probability-of-flipping-a-coin/
+Explanation: https://techtorials.me/coin-flipping-probabilities/
 """
 
 # Native imports

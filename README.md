@@ -7,4 +7,4 @@ To simulate one billion coin flips, this script took about 6 minutes to run on a
 
 See the included CSV for the computed data.
 
-Refer to [TechTorials.me](https://techtorials.me/probability-of-flipping-a-coin/) for a corresponding write-up.
+Refer to [TechTorials.me](https://techtorials.me/coin-flipping-probabilities/) for a corresponding write-up.
